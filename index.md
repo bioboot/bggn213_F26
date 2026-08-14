@@ -1,6 +1,6 @@
 ---
 layout: welcome
-title: Bioinformatics <br> (BGGN 213, Fall 2025)
+title: Bioinformatics <br> (BGGN 213, Fall 2026)
 selected_projects:
   - _projects/welcome-screencast.md
   - _projects/using-jetstream-for-bioinformatics.md

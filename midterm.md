@@ -33,13 +33,20 @@ A complete listing of class assignments along with anticipated due dates is [ava
 <iframe width='100%' height='1150' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQljQFepWeCXXF1qk5G9-S5oEmEDlrXhg91HlHB2zYf04JqdGp5ixdCWw26htcx7n-O9AyzVmILtahO/pubhtml?gid=442644877&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 <br>
 
+## Late submissions
+No late submissions allowed after 48hrs (i.e. typically Wed at 12pm is the last possible submission point). There will be no reduction for a first late submission after that we will start deducting 15% per day for two days:
+
+- 0–24 hours late: 15% off
+- 24–48 hours late: 30% off
+- 48 hours: 0
+
 
 
 Course Director
 : [Prof. Barry J. Grant](http://thegrantlab.org/) (Email: [bjgrant@ucsd.edu](mailto:bjgrant@ucsd.edu))
 
 Course Syllabus
-: [Fall 2025 (PDF)]({{ site.baseurl}}{{site.data.authors.corelinks.syllabus}}){:.no-push-state}
+: [Course Syllabus (PDF)]({{ site.baseurl}}{{site.data.authors.corelinks.syllabus}}){:.no-push-state}
 {:.message}
 
  

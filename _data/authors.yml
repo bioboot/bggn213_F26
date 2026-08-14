@@ -12,10 +12,10 @@ barry:
     : [Prof. Barry J. Grant](http://thegrantlab.org/) (Email: <bjgrant@ucsd.edu>)
 
     Instructional Assistant
-    : Monika Ramos (Email: <mjr002@ucsd.edu>)  
+    : Aniruddha Fale (Email: <afale@ucsd.edu>)  
 
     Course Syllabus
-    : [Fall 2025 (PDF)](https://bioboot.github.io/bggn213_F25/class-material/BGGN213_F25_syllabus.pdf){:.no-push-state}
+    : [Fall 2026 (PDF)](https://bioboot.github.io/bggn213_F26/class-material/BGGN213_F26_syllabus.pdf){:.no-push-state}
     {:.message}
 
 #    : [Ileena Mitra](https://bioboot.github.io/bggn213_f17/ileenamitra@eng.ucsd.edu) (Email: <ileenamitra@eng.ucsd.edu>)
@@ -26,7 +26,7 @@ barry:
 
   # This photo will be used in the about section
   picture:
-    src:             /bggn213_F25/assets/img/logo.png
+    src:             /bggn213_F26/assets/img/logo.png
     # srcset is optional, but can be used to provide higher res versions for retina displays
     #srcset:
     #  1x:            https://placehold.it/128x128
@@ -39,8 +39,8 @@ barry:
   # Icons appear in order, can be rearranged:
   social:
     #twitter:         barryjgrant
-    piazza:          &piazza   https://piazza.com/ucsd/fall2025/bggn213/
-    gradescope:      &gradescope https://www.gradescope.com/courses/1139084    
+    piazza:          &piazza   https://piazza.com/ucsd/fall2026/bggn213/
+    gradescope:      &gradescope https://www.gradescope.com/courses/1352021    
     youtube:         &youtube https://www.youtube.com/playlist?list=PLtYfizZe9rnqfCkeChDDoYTbcTSkGwWoh
     email:           mailto:<bjgrant@ucsd.edu>
     # google:          <number>
@@ -96,7 +96,7 @@ ileena:
 #   The ampsand &piazza here is a varable asignment that can be access with 
 #   a *piazza later in this ymal data file.
 corelinks:
-  syllabus:       &syllabus /class-material/BGGN213_F25_syllabus.pdf
+  syllabus:       &syllabus /class-material/BGGN213_F26_syllabus.pdf
   piazza:         *piazza 
   gradescope:     *gradescope 
   youtube:        *youtube 
