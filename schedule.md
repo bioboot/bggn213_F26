@@ -6,7 +6,7 @@ order: 2
 ---
 
 
-For the Fall 2026 quarter we will meet twice a week on Wednesday and Friday at 1:00-4:00 pm in TATA 2501 ([Map](https://goo.gl/maps/Cd8z9Zexx6q){:target="_blank"}). Clicking on the topics below will take you to supporting class content including video lectures, hands-on “lab session” sheets, walk-through screencasts, required reading material and homework assignments.
+For the Fall 2026 quarter we will meet twice a week on Wednesday and Friday at 1:00-4:00 pm in YORK 3050 ([Map](https://maps.app.goo.gl/5xMZTotbTaswEZvY9){:target="_blank"}). Clicking on the topics below will take you to supporting class content including video lectures, hands-on “lab session” sheets, walk-through screencasts, required reading material and homework assignments.
 
 
 <br>
