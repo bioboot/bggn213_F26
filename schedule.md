@@ -131,7 +131,7 @@ Sequence Alignment and Database Searching: Homology, Sequence similarity, Local 
 **Supporting Material:**
 - Lecture Slides: [Large PDF]({{ site.baseurl }}/class-material/lecture-2-bggn213_large.pdf){:.no-push-state}{:target="_blank"}, [Small PDF]({{ site.baseurl }}/class-material/lecture-2-bggn213_small.pdf){:.no-push-state}{:target="_blank"},  
 - Dot Plot App Mirrors: [app-1](https://barryus.shinyapps.io/dotplot/){:.no-push-state}{:target="_blank"},  [app-2](https://bioboot.shinyapps.io/dotplot/){:.no-push-state}{:target="_blank"},     
-- Lab: [Hands-on section worksheet]({{ site.baseurl }}/class-material/lab2.pdf){:.no-push-state}{:target="_blank"}  
+- Lab: [Hands-on section worksheet]({{ site.baseurl }}/class-material/lab02.pdf){:.no-push-state}{:target="_blank"}  
 - Lab: [Video walk-through](https://youtu.be/mO6L5z51O1s){:target="_blank"}{:.no-push-state},   
 - Student Hours: [{{ site.data.authors.corelinks.officetime }}]({{ site.data.authors.corelinks.officehours }}){:.no-push-state}{:target="_blank"},   
 - Feedback: [Muddy Point Assessment](https://forms.gle/XFgux3J6pU34Qeen6){:.no-push-state}{:target="_blank"}.   
@@ -194,7 +194,7 @@ Detecting remote sequence similarity, Substitution matrices, Database searching 
 **Material**:   
  
  - Lecture Slides: [Large PDF]({{ site.baseurl }}/class-material/lecture-3-bggn213_large.pdf){:.no-push-state}{:target="_blank"}, [Small PDF]({{ site.baseurl }}/class-material/lecture-3-bggn213_small.pdf){:.no-push-state}{:target="_blank"},    
-- Lab: [Hands-on section worksheet]({{ site.baseurl }}/class-material/lab3.pdf){:.no-push-state}{:target="_blank"},  
+- Lab: [Hands-on section worksheet]({{ site.baseurl }}/class-material/lab03.pdf){:.no-push-state}{:target="_blank"},  
 - Bonus: [Alignment App](https://bioboot.github.io/bimm143_W20/class-material/nw/){:.no-push-state}{:target="_blank"},  
 - Feedback: [Muddy Point Assessment](https://forms.gle/TxSZcAG29qv84DEc6){:.no-push-state}{:target="_blank"}.   
   
@@ -232,7 +232,7 @@ Why do we use R for bioinformatics? R language basics and the RStudio IDE, Major
 - Cheat Sheet: [Base R overview]({{ site.baseurl }}/class-material/base-r.pdf){:target="_blank"}{:.no-push-state},
 - Lab: [Hands-on section](https://bioboot.github.io/bimm143_F25/class-material/r_intro/r_intro.html#/title-slide){:.no-push-state}{:target="_blank"},  
 - Lab: [Video walk-through](https://youtu.be/ZKcmg1HLaAo){:target="_blank"}{:.no-push-state} focusing on introducing R data structures and core syntax,
-- Extra credit lab: [Introduction to data in R]({{ site.baseurl }}/class-material/lab4.pdf){:.no-push-state}{:target="_blank"},  
+- Extra credit lab: [Introduction to data in R]({{ site.baseurl }}/class-material/lab04.pdf){:.no-push-state}{:target="_blank"},  
 - Optional extension: [Advanced conservation analysis of globins with R]({{ site.baseurl }}/class-material/globin_analysis){:.no-push-state} this demonstrates where we are going on our R learning journey. You should be able to do analysis like this on your own at the end of the course.  
 - Student Hours: [{{ site.data.authors.corelinks.officetime }}]({{ site.data.authors.corelinks.officehours }}){:.no-push-state}{:target="_blank"},   
 - Feedback: [Muddy point assessment](https://forms.gle/pGzaaSRGnQ1r9mrL9){:.no-push-state}{:target="_blank"},  
@@ -272,7 +272,7 @@ The exploratory data analysis mindset, Data visualization best practices, Simple
 
 **Supporting Material:**
 - Lecture Slides: [Large PDF]({{ site.baseurl }}/class-material/lecture5-BGGN213-large.pdf){:.no-push-state}{:target="_blank"}, [Small PDF]({{ site.baseurl }}/class-material/lecture5-BGGN213-small.pdf){:.no-push-state}{:target="_blank"},  
-- Lab: [Hands-on worksheet]({{ site.baseurl }}/class-material/lab5.html){:.no-push-state}{:target="_blank"},
+- Lab: [Hands-on worksheet]({{ site.baseurl }}/class-material/lab05.html){:.no-push-state}{:target="_blank"},
 - Lab: Live screencast [video walk-through](https://youtu.be/pNXD_QYLrVU){:target="_blank"}{:.no-push-state},   
 - LLM Guide: [**NoteBookLM**: R Foundations for Data Analysis and Visualization](https://notebooklm.google.com/notebook/b705e744-3827-4f56-8ac4-c428f774b0f9){:.no-push-state}{:target="_blank"},  
 - TritonGPT: [Custom course specific private LLM tailored for teaching](https://tritongpt.ucsd.edu/chat){:.no-push-state}{:target="_blank"} click *"Explore Assistants > BGGN213 Bioinformatics Lab Assistant > Chat"*,  
