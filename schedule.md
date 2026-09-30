@@ -92,7 +92,7 @@ Biology is an information science, History of Bioinformatics, Types of data, App
 **Supporting Material**:  
 - Lecture Slides: [Large PDF]({{ site.baseurl }}/class-material/lecture-1-bggn213_large.pdf){:.no-push-state}{:target="_blank"}, [Small PDF]({{ site.baseurl }}/class-material/lecture-1-bggn213_small.pdf){:.no-push-state}{:target="_blank"},     
 - Handout: [Major Bioinformatics Databases]({{ site.baseurl }}/class-material/Major_Databases.pdf){:.no-push-state}{:target="_blank"},  
-- Lab: [Hands-on section worksheet]({{ site.baseurl }}/class-material/lab1.pdf){:target="_blank"}{:.no-push-state},  
+- Lab: [Hands-on section worksheet]({{ site.baseurl }}/class-material/lab01.pdf){:target="_blank"}{:.no-push-state},  
 - Lab: [Video walk-through](https://youtu.be/UbFjMzS3eCk){:target="_blank"}{:.no-push-state},     
 - Office/Student Hours: [{{ site.data.authors.corelinks.officetime }}]({{ site.data.authors.corelinks.officehours }}){:.no-push-state}{:target="_blank"},   
 - Feedback: [Muddy Point Assessment](https://forms.gle/EnkEdCS4VRuhSfGD9){:.no-push-state}{:target="_blank"},    
