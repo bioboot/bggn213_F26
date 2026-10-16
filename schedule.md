@@ -311,7 +311,7 @@ The why, when and how of writing your own R functions with worked examples. Furt
 
 **Supporting material:**  
 - Lecture Slides: [Pt1. Large PDF]({{ site.baseurl }}/class-material/lecture-6-bggn213_large.pdf){:.no-push-state}{:target="_blank"}, [Pt2. Large PDF]({{ site.baseurl }}/class-material/lecture-7-bggn213_large.pdf){:.no-push-state}{:target="_blank"},  
-- Lab: [Hands-on section worksheet]({{ site.baseurl }}/class-material/lab_class06.pdf){:.no-push-state}{:target="_blank"},  
+- Lab: [Hands-on section worksheet]({{ site.baseurl }}/class-material/lab06.pdf){:.no-push-state}{:target="_blank"},  
 - Lab supplement: [Hands-on section supplemental information]({{ site.baseurl }}/class-material/lab-6-bggn213.pdf){:.no-push-state}{:target="_blank"},   
 - Lab: Live screencast [video walk-through](https://youtu.be/mIAMbhwxGec){:target="_blank"}{:.no-push-state},   
 - Extra: [Introductory tutorial on R packages](https://www.datacamp.com/community/tutorials/r-packages-guide){:.no-push-state}{:target="_blank"},  
