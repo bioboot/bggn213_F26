@@ -393,7 +393,7 @@ Unsupervised learning, supervised learning and reinforcement learning; Focus on 
 
 **Material**:  
 - Lecture Slides: [Large PDF]({{ site.baseurl }}/class-material/lecture-9-bggn213_large.pdf){:.no-push-state}{:target="_blank"}, [Small PDF]({{ site.baseurl }}/class-material/lecture-9-bggn213_small.pdf){:.no-push-state}{:target="_blank"},  
-- Lab Mini-Project: [Unsupervised learning analysis of breast cancer cells]({{ site.baseurl }}/class-material/wk7_miniproject.html){:.no-push-state}{:target="_blank"},  
+- Lab Mini-Project: [Unsupervised learning analysis of breast cancer cells]({{ site.baseurl }}/class-material/lab08.html){:.no-push-state}{:target="_blank"},  
 - Data file: [WisconsinCancer.csv]({{ site.baseurl }}/class-material/WisconsinCancer.csv){:.no-push-state}, [new_samples.csv]({{ site.baseurl }}/class-material/new_samples.csv){:.no-push-state}.     
 - Feedback: [Muddy point assessment](https://goo.gl/forms/1dkWdpJ4BNgtGHsR2){:.no-push-state}.   
 
