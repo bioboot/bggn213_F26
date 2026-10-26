@@ -428,7 +428,7 @@ Unsupervised learning, supervised learning and reinforcement learning; Focus on 
 
 **Material**:  
 - Lecture Slides: [Large PDF]({{ site.baseurl }}/class-material/lecture-11-bggn213_large.pdf){:.no-push-state}{:target="_blank"}, [Small PDF]({{ site.baseurl }}/class-material/lecture-11-bggn213_small.pdf){:.no-push-state}{:target="_blank"},  
-- Lab: [Hands-on structural bioinformatics analysis (pt. 1)]({{ site.baseurl }}/class-material/pdb_pca_labclass.html){:.no-push-state}{:target="_blank"},  
+- Lab: [Hands-on structural bioinformatics analysis (pt. 1)]({{ site.baseurl }}/class-material/lab10.html){:.no-push-state}{:target="_blank"},  
 
 - Feedback: [Muddy point assessment](https://forms.gle/3eDPRMCZt23rGNaH8){:.no-push-state}.   
 
