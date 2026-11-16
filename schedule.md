@@ -536,11 +536,13 @@ Today’s lecture and hands-on sessions introduce Git, currently the most popula
 
 **Supporting material:**
 - Lecture Slides: [Large PDF]({{ site.baseurl }}/class-material/slide_class16.pdf){:.no-push-state}{:target="_blank"},  
-- Lab: [Hands-on with Git and GitHub]({{ site.baseurl }}/class-material/github_lab.html){:.no-push-state}{:target="_blank"},  
+- Hands-on section worksheet
+  * (Part I) [Hands-on with Git and GitHub]({{ site.baseurl }}/class-material/github_lab.html){:.no-push-state}{:target="_blank"},
+  * (Part II) [Getting started with GitHub Copilot]({{ site.baseurl }}/class-material/github_copilot.html){:.no-push-state}{:target="_blank"},
 
 
 **Homework**:   
-Submit yoour GitHub class repository URL on GradeScope.  
+Submit your GitHub class repository URL on GradeScope.  
 
 
 
