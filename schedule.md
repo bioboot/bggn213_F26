@@ -31,6 +31,7 @@ For the Fall 2026 quarter we will meet twice a week on Wednesday and Friday at 1
 | X  |  Optional | [**RNA-Seq mini project**](#13) <br> Differential expression analysis project with DESeq2 followed by gene enrichment and functional annotation with KEGG, InterPro, and GO ontologies.                                                                                                                                                                                                                              |
 | 14  | Fri 11/13/26  | [**Hands-on with Git and GitHub**](#14) <br> Why you should use a version control system, How to perform common operations with Git. Creating and working with your own GitHub repos and navagating and using those of others.                                                                                                                                                              |
 | 15  | Wed 11/18/26  | [**Essential UNIX for bioinformatics**](#15) <br> Bioinformatics on the command line, Understanding processes, File system structure, Connecting to remote servers, Redirection, streams and pipes, Workflows for batch processing, Launching and using AWS EC2 instances (A.K.A. Virtual Machines).                                                                                                                                                                                                                                              |
+| 16  | Fri 11/20/26  | [**Why do infants respond differently to their first Flu shot?**](#guest) <br> A guest lecture by [Prof. Tal Einav](https://www.lji.org/labs/einav-lab/){:target="_blank"} (LJI). Some infants mount a strong antibody response to their first finfluenza vaccine, while others show little or no response. Could differences in how they present influenza peptides to T cells help explain why?                                                                                                                                                                                                                                 |
 | 16  | Fri 11/20/26  | [**Analyzing sequencing data in the cloud**](#16) <br> A mini-project using AWS EC2 to query, download, decompress and analyze large data sets from the Sequence Read Archive. Practical considerations and best practices for installing bioinformatics software on Linux, transfering large data sets, and performing analysis either locally or on AWS.                                                                                                                                                                                                                                  |
 | 17  | Wed 11/25/26  | [**Online-Only / Genome informatics and high throughput sequencing review**](#17) <br> No in-person class today. <br> Review of searching genes and gene functions, Genome databases, Variation in the Genome, High-throughput sequencing technologies, biological applications, bioinformatics analysis methods; The Galaxy platform along with resources from the EBI & UCSC <br> **N.B.** This is an online session\!                                                                                                                                                                                                                      |
 | 18  | Fri 11/27/26  | **Thanksgiving Holiday**                                                                                                                                    |
@@ -592,11 +593,27 @@ Bioinformatics on the command line, Why do we use UNIX for bioinformatics? UNIX 
 
 
 ---
+<a name="guest"></a>
+## 16: Why do infants respond differently to their first Flu shot?
+  
+**Topics:** 
+A guest lecture by [Prof. Tal Einav](https://www.lji.org/labs/einav-lab/){:target="_blank"} (La Jolla Institute for Immunology). Some infants mount a strong antibody response to their first finfluenza vaccine, while others show little or no response. Could differences in how they present influenza peptides to T cells help explain why? Tal will show how his research team uses HLA typing and methods for predicting peptide epitope binding affinity to investigate this question. After a brief introduction you will work together on a hands-on optimization exercise and explore how these predictions might inform vaccine design for a genetically diverse population.
+
+- Lecture Slides: [Large PDF](){:.no-push-state}{:target="_blank"}.  
+- Resources and Data Files:
+  * Peptide-binding epitope prediction server [NetMHCIIpan](https://services.healthtech.dtu.dk/services/NetMHCIIpan-4.3/){:.no-push-state}{:target="_blank"},   
+  * NetMHC predictions for point mutations: [M2_NetMHC.csv]({{ site.baseurl }}/class-material/M2_NetMHC.csv){:.no-push-state}{:target="_blank"},  
+  * WT sequence: [M2_Sequence.csv]({{ site.baseurl }}/class-material/M2_Sequence.csv){:.no-push-state}{:target="_blank"},  
+  * [Tals_GoogleDrive](https://drive.google.com/drive/folders/1eQxyC1OS5-bIBWcSbCFLKpT2BOiVitWZ?usp=sharing){:.no-push-state}{:target="_blank"}.  
+
+
+
+---
 <a name="16"></a>
 ## 16: Analyzing sequencing data in the cloud
   
 **Topics:** 
-A mini-project whre we use bespoke cloud computing resources to query, download, decompress and analyze large data sets from NCBI’s main Sequence Read Archive (SRA). Practical considerations and best practices for installing bioinformatics software on Linux, transfering large data sets, and performing analysis either locally or on AWS.  
+A mini-project where we use bespoke cloud computing resources to query, download, decompress and analyze large data sets from NCBI’s main Sequence Read Archive (SRA). Practical considerations and best practices for installing bioinformatics software on Linux, transfering large data sets, and performing analysis either locally or on AWS.  
 
 - Lab: [Obtaining and processing SRA datasets on AWS]({{ site.baseurl }}/class-material/aws_03.html){:.no-push-state}{:target="_blank"},  
 - AWS Console URL: [https://awsed.ucsd.edu/](https://awsed.ucsd.edu/){:.no-push-state}{:target="_blank"}. 
